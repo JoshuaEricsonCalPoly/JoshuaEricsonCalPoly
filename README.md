@@ -1,3 +1,6 @@
+Currently Working on adapting this Olympic Venue Monitor to be a Campus Makerspaces Map for the Cal Poly Digital Projects Lab!
+
+
 # LA 2028 Olympic Venue Monitor
 
 An interactive web map built with **ArcGIS JavaScript SDK 4.29** (ESM) that plots all 20 confirmed venues for the Los Angeles 2028 Summer Olympics, with real-time search, venue details, and live area demographics powered by Esri GeoEnrichment.
